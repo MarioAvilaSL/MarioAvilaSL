@@ -4,7 +4,7 @@ package programa;
 public class UsoHilos {
 
 	public static void main( String args[] ) {
-		System.out.println("-----El programa iniciar·-----");
+		System.out.println("-----El programa iniciar√°-----");
 		System.out.println("-----Cada hilo tiene un tiempo despues de cada uno de 1000ms-----");
 		System.out.println("-----iniciando los hilos-----");
 		
@@ -14,7 +14,7 @@ public class UsoHilos {
 		
 		try {
 			System.out.println("hilo 1");
-			hilo1.sleep(2000); //va 1000
+			hilo1.sleep(1000); //va 1000
 		}catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
