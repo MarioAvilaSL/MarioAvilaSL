@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarioAvilaSL
 - 👀 I'm interested in programming
-- 🌱 I am currently learning c++ and  Java
+- 🌱 I am currently learning C++, C# and  Java
 
 <!---
 MarioAvilaSL/MarioAvilaSL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
