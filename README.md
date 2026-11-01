@@ -102,7 +102,6 @@ Sistema embebido sobre **Raspberry Pi** que mide tensión y corriente en 8 canal
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="Estadísticas de GitHub" width="100%">
-</p>
-
+<div align="center">
+  <img src="./github-metrics.svg" alt="Estadísticas de GitHub" width="60%">
+</div>
