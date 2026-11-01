@@ -110,14 +110,12 @@ Sistema embebido sobre **Raspberry Pi** que mide tensión y corriente en 8 canal
     <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarioAvilaSL&layout=compact&langs_count=10&theme=algolia" alt="Lenguajes más usados"/>
   </a>
 
-  
-<a href="https://github.com/MarioAvilaSL">
-  <img
-    src="https://trophy.ryglcloud.net/?username=MarioAvilaSL&theme=algolia&row=1&column=3&margin-w=15&margin-h=5"
-    alt="Trofeos de GitHub"
-  />
-</a>
-
-
 </div>
+
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Estadísticas de GitHub" width="100%">
+</p>
 
