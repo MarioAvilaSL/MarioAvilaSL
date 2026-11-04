@@ -2,68 +2,68 @@
 
 # Mario Ávila
 
-**Desarrollo de software · Python · Aplicaciones Android · Inteligencia Artificial**
+**Software Development · Python · Android Applications · Artificial Intelligence**
 
-Estudiante de Tecnologías de la Información · Universidad Técnica de Machala, Ecuador
+Information Technology student · Technical University of Machala, Ecuador
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-avila-353b75268)
-[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariossebastian2002@hotmail.com)
+[![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariossebastian2002@hotmail.com)
 
 </div>
 
 ---
 
-## Sobre mí
+## About Me
 
-Desarrollo soluciones que conectan datos, modelos de inteligencia artificial y aplicaciones reales: desde la lectura de sensores en hardware hasta una interfaz que alguien pueda usar. Mi proyecto de titulación es una plataforma IoT de supervisión eléctrica, y en paralelo construyo aplicaciones Android y sistemas de visión por computador.
+I build solutions that connect data, artificial intelligence models, and real-world applications—from reading hardware sensors to creating interfaces people can use. My graduation project is an IoT electrical monitoring platform, and I also develop Android applications and computer vision systems.
 
-Busco prácticas o un primer empleo en desarrollo de software, datos o IA.
+I am seeking an internship or an entry-level position in software development, data, or AI.
 
 ---
 
-## Proyecto principal: trabajo de titulación
+## Main Project: Graduation Project
 
-### [Smart Campus](https://github.com/MarioAvilaSL/Smart-Campus) · Plataforma IoT de supervisión eléctrica
+### [Smart Campus](https://github.com/MarioAvilaSL/Smart-Campus) · IoT Electrical Monitoring Platform
 
-Sistema embebido sobre **Raspberry Pi** que mide tensión y corriente en 8 canales con un DAQ **MCC118**, calcula valores RMS y los guarda en **PostgreSQL**. Una **API Flask** los expone a un **dashboard web** desplegado en Cloudflare, con lectura en tiempo real, histórico por minuto, alertas por umbrales y control remoto de relés.
+An embedded system built on **Raspberry Pi** that measures voltage and current across 8 channels using an **MCC118** DAQ, calculates RMS values, and stores them in **PostgreSQL**. A **Flask API** makes the data available to a **web dashboard** deployed on Cloudflare, featuring real-time readings, per-minute historical data, threshold-based alerts, and remote relay control.
 
 `Python` `Flask` `PostgreSQL` `React` `TypeScript` `Tailwind CSS` `Raspberry Pi` `Cloudflare`
 
 ---
 
-## Inteligencia artificial
+## Artificial Intelligence
 
-| Proyecto | Qué hace | Tecnologías |
+| Project | What it does | Technologies |
 |---|---|---|
-| [**Detección de daños viales con YOLO**](https://github.com/MarioAvilaSL/VIALIDAD---YOLO) | Detecta baches y grietas (4 clases) en fotos y videos de carretera con **YOLO26s** entrenado sobre RDD2022. Estima un índice de severidad, lleva seguimiento por tramo y ofrece aplicación web, video con daños marcados y app Android. mAP50 de 0,66 en validación. Prototipo académico. | Python · Ultralytics YOLO · FastAPI · PostgreSQL · OpenCV |
-| [**Clasificador de perros y gatos**](https://github.com/MarioAvilaSL/Clasificador_perros_gatos_laboratorio-redes-neuronales) | Compara red densa, CNN y CNN con Dropout, cada una con y sin aumento de datos. El mejor modelo (CNN con aumento de datos) alcanzó **87,7 % de accuracy** sobre 3.490 imágenes de prueba, con análisis estadístico de las diferencias. | Python · TensorFlow / Keras · Jupyter |
-| [**Reproducción de imágenes con algoritmo genético**](https://github.com/MarioAvilaSL/Reproducing-Images-Pygad) | Evoluciona una población de soluciones aleatorias hasta aproximar una imagen objetivo. Seis experimentos de hasta 50.000 generaciones y un informe técnico de 67 páginas. | Python · PyGAD · NumPy · Jupyter |
+| [**YOLO Road Damage Detection**](https://github.com/MarioAvilaSL/VIALIDAD---YOLO) | Detects potholes and cracks (4 classes) in road images and videos using **YOLO26s**, trained on RDD2022. Estimates a severity index, tracks road segments over time, and provides a web application, videos with highlighted damage, and an Android app. Validation mAP50: 0.66. Academic prototype. | Python · Ultralytics YOLO · FastAPI · PostgreSQL · OpenCV |
+| [**Dogs and Cats Classifier**](https://github.com/MarioAvilaSL/Clasificador_perros_gatos_laboratorio-redes-neuronales) | Compares a dense neural network, a CNN, and a CNN with Dropout, each with and without data augmentation. The best model (CNN with data augmentation) achieved **87.7% accuracy** on 3,490 test images, with a statistical analysis of the differences. | Python · TensorFlow / Keras · Jupyter |
+| [**Image Recreation Using a Genetic Algorithm**](https://github.com/MarioAvilaSL/Reproducing-Images-Pygad) | Evolves a population of random solutions to approximate a target image. Includes six experiments of up to 50,000 generations and a 67-page technical report. | Python · PyGAD · NumPy · Jupyter |
 
 ---
 
-## Aplicaciones Android
+## Android Applications
 
-| Proyecto | Qué hace | Tecnologías |
+| Project | What it does | Technologies |
 |---|---|---|
-| [**NetDiag**](https://github.com/MarioAvilaSL/NetDiag) | Diagnóstico de señales y conectividad: Wi-Fi, red móvil, SIM y GNSS, con escáner de canales, mapa de ruta, prueba de precisión GPS e historial exportable a CSV. Sin cuentas ni servidor: los datos se quedan en el dispositivo. | Kotlin · Jetpack Compose |
-| [**GpsNavApp**](https://github.com/MarioAvilaSL/GpsNavApp) | Dashboard de navegación GPS 100 % offline con brújula, altitud, coordenadas en decimal y DMS, puntos guardados con exportación GPX/KML/CSV y tema claro/oscuro. | Kotlin · Jetpack Compose |
-| [**ControlAceite**](https://github.com/MarioAvilaSL/ControlAceite) | Prototipo para el control de cambios de aceite de vehículos. | Android |
+| [**NetDiag**](https://github.com/MarioAvilaSL/NetDiag) | Signal and connectivity diagnostics for Wi-Fi, mobile networks, SIM, and GNSS, featuring a channel scanner, route map, GPS accuracy test, and history exportable to CSV. No accounts or server required: all data stays on the device. | Kotlin · Jetpack Compose |
+| [**GpsNavApp**](https://github.com/MarioAvilaSL/GpsNavApp) | A fully offline GPS navigation dashboard with a compass, altitude, decimal and DMS coordinates, saved locations with GPX/KML/CSV export, and light/dark themes. | Kotlin · Jetpack Compose |
+| [**ControlAceite**](https://github.com/MarioAvilaSL/ControlAceite) | A prototype for tracking vehicle oil changes. | Android |
 
 ---
 
-## Otros proyectos
+## Other Projects
 
-| Proyecto | Qué hace | Tecnologías |
+| Project | What it does | Technologies |
 |---|---|---|
-| [**GymOS**](https://github.com/MarioAvilaSL/GymOS) | Sistema de administración para gimnasios. | TypeScript · Vite · SQL |
-| [**N-Reinas con algoritmos genéticos**](https://github.com/MarioAvilaSL/8-queens-genetic-algorithm) | Resuelve el problema de las N reinas con JGAP, con visualización Swing y 21 configuraciones experimentales de 10 repeticiones cada una, exportadas a CSV. | Java · JGAP |
-| [**SPA-Buscar**](https://github.com/MarioAvilaSL/SPA-Buscar) | Aplicación de página única con buscador. | Angular · TypeScript |
+| [**GymOS**](https://github.com/MarioAvilaSL/GymOS) | Gym management system. | TypeScript · Vite · SQL |
+| [**N-Queens Using Genetic Algorithms**](https://github.com/MarioAvilaSL/8-queens-genetic-algorithm) | Solves the N-Queens problem using JGAP, with Swing visualization and 21 experimental configurations, each run 10 times, with results exported to CSV. | Java · JGAP |
+| [**SPA-Buscar**](https://github.com/MarioAvilaSL/SPA-Buscar) | Single-page application with a search feature. | Angular · TypeScript |
 
 ---
 
-## Tecnologías
+## Technologies
 
-**Lenguajes**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -72,7 +72,7 @@ Sistema embebido sobre **Raspberry Pi** que mide tensión y corriente en 8 canal
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**IA y datos**
+**AI and Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
@@ -81,7 +81,7 @@ Sistema embebido sobre **Raspberry Pi** que mide tensión y corriente en 8 canal
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Backend, web y móvil**
+**Backend, Web, and Mobile**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -91,7 +91,7 @@ Sistema embebido sobre **Raspberry Pi** que mide tensión y corriente en 8 canal
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-**Hardware e infraestructura**
+**Hardware and Infrastructure**
 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
@@ -100,8 +100,8 @@ Sistema embebido sobre **Raspberry Pi** que mide tensión y corriente en 8 canal
 ---
 
 
-## 📊 Estadísticas de GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="Estadísticas de GitHub" width="65%">
+  <img src="./github-metrics.svg" alt="GitHub Statistics" width="65%">
 </div>
